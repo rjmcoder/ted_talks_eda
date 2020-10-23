@@ -1,5 +1,4 @@
-# ted_talks_eda
-Ted Talks EDA 
+# Ted Talks EDA 
 
 From ted.com:
 TED is a nonpartisan nonprofit devoted to spreading ideas, usually in the form of short, powerful talks. TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost all topics — from science to business to global issues — in more than 110 languages.
